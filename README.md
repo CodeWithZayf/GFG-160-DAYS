@@ -31,8 +31,8 @@ Check back for daily updates!
 
 ## 🤝 **Connect & Collaborate!**
 Are you on the same challenge? Let’s keep each other motivated!  
-- 📧 [Your email or LinkedIn her](https://www.linkedin.com/in/mdzafirhasan/)
-- 🐙 [Your GitHub Profile](https://github.com/CodeWithZayf)
+- 📧 [LinkedIn](https://www.linkedin.com/in/mdzafirhasan/)
+- 🐙 [GitHub](https://github.com/CodeWithZayf)
 
 ---
 
