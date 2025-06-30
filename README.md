@@ -1,6 +1,6 @@
 # 🚀 160 Days of DSA with GeeksforGeeks 💚
 
-Hi! I’m Zayf, and this repository is my daily log for the **GeeksforGeeks 160 Days DSA Challenge**.  
+Hi! I’m Zafir , and this repository is my daily log for the **GeeksforGeeks 160 Days DSA Challenge**.  
 I’m solving data structures and algorithms problems consistently for 160 days straight — one day, one problem (or more!), every single day.
 
 ---
@@ -23,8 +23,7 @@ Because *Consistency > Motivation!*
 ---
 
 ## 🚦 **Progress**
-**Started on:** `2025-06-30`  
-**Current Day:** `Day 1 ✅`  
+**Started on:** `2025-07-01`  
 Check back for daily updates!
 
 ---
