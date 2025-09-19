@@ -1,3 +1,6 @@
+/*You are given an array of integers arr[].
+You have to reverse the given array.*/
+
 class Solution {
     public void reverseArray(int arr[]) {
         int i;
